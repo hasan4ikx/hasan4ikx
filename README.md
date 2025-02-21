@@ -7,7 +7,7 @@ I'm a passionate developer who loves coding, solving problems, and creating amaz
 - 🌱 I’m currently learning **React, TypeScript, and Next.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, and backend development**
-- ⚡ Fun fact: **I love coffee ☕ and coding 💻**
+- ⚡ Fun fact: **I love gym and coding **
 
 ### 🛠 Tech Stack:
 
